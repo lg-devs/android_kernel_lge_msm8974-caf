@@ -18,7 +18,7 @@
 #include <mach/gpio.h>
 #include <mach/gpiomux.h>
 #include <mach/socinfo.h>
-#include <mach/gpiomux.c>
+#include <mach/gpiomux-v2.h>
 
 #define KS8851_IRQ_GPIO 94
 
